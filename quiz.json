@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of JavaScript with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is JS?",
+      "answers": ["Script", "Style", "Markup"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is a variable?",
+      "answers": ["Store", "Loop", "Event"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is a function?",
+      "answers": ["Method", "Class", "Array"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an array?",
+      "answers": ["List", "Loop", "Var"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'if'?",
+      "answers": ["Cond.", "Loop", "Var"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'for'?",
+      "answers": ["Loop", "Var", "Func"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'const'?",
+      "answers": ["Var", "Func", "Loop"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'let'?",
+      "answers": ["Var", "Func", "Class"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'var'?",
+      "answers": ["Var", "Func", "Class"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'null'?",
+      "answers": ["Empty", "Zero", "False"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'undefined'?",
+      "answers": ["No val", "False", "Zero"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'true'?",
+      "answers": ["Bool", "Num", "Str"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'false'?",
+      "answers": ["Bool", "Num", "Str"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'NaN'?",
+      "answers": ["Not num", "Null", "Zero"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a callback?",
+      "answers": ["Func", "Var", "Array"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is DOM?",
+      "answers": ["Doc.", "Data", "Obj."],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an object?",
+      "answers": ["Key-val", "Array", "Loop"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is JSON?",
+      "answers": ["Format", "Lang", "Var"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is '===’?",
+      "answers": ["Strict", "Add", "Assign"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is '!==’?",
+      "answers": ["Strict", "Equal", "Add"],
       "correctAnswerIndex": 0
     }
   ]
